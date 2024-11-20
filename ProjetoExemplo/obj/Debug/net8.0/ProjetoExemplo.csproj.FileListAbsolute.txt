@@ -28,3 +28,4 @@ C:\Users\vinic\OneDrive\Área de Trabalho\LivroRepos\ProjetoExemplo\ProjetoExemp
 C:\Users\vinic\OneDrive\Área de Trabalho\LivroRepos\ProjetoExemplo\ProjetoExemplo\obj\Debug\net8.0\ProjetoExemplo.pdb
 C:\Users\vinic\OneDrive\Área de Trabalho\LivroRepos\ProjetoExemplo\ProjetoExemplo\obj\Debug\net8.0\ProjetoExemplo.genruntimeconfig.cache
 C:\Users\vinic\OneDrive\Área de Trabalho\LivroRepos\ProjetoExemplo\ProjetoExemplo\obj\Debug\net8.0\ref\ProjetoExemplo.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\LivroRepos\ProjetoExemplo\ProjetoExemplo\obj\Debug\net8.0\ProjetoExemplo.sourcelink.json
